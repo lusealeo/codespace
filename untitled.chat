@@ -1,23 +1,23 @@
 {
   "messages": [],
   "users": {
-    "hidden::jupyter_ai_system": {
-      "avatar_url": null,
-      "display_name": "System",
-      "color": null,
-      "name": "System",
-      "username": "hidden::jupyter_ai_system",
-      "initials": null,
-      "bot": true
-    },
     "jupyter-ai-personas::jupyter_ai_acp_client::OpenCodeAcpPersona": {
-      "name": "OpenCode",
-      "bot": true,
       "initials": null,
+      "name": "OpenCode",
       "avatar_url": "/api/ai/avatars/jupyter-ai-personas%3A%3Ajupyter_ai_acp_client%3A%3AOpenCodeAcpPersona",
+      "bot": true,
       "color": null,
       "username": "jupyter-ai-personas::jupyter_ai_acp_client::OpenCodeAcpPersona",
       "display_name": "OpenCode"
+    },
+    "hidden::jupyter_ai_system": {
+      "bot": true,
+      "name": "System",
+      "initials": null,
+      "color": null,
+      "username": "hidden::jupyter_ai_system",
+      "display_name": "System",
+      "avatar_url": null
     }
   },
   "attachments": {},
